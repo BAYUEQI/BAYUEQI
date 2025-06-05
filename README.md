@@ -3,7 +3,7 @@
 欢迎来到我的数字游乐场，在这里我能把**软件安装的混乱变成秩序**，把**代码拼写错误变成魔法咒语**！🎩✨  
 
 #### 🌟 **我的超能力**  
-- 🛠️ **软件低语者**：我安装和解卸Adobe全家桶(Ai, Fw, Fl, Br, Ae, Pr, Id, Ps)的速度比你喊出*"创意云在哪？"*还快(友情提示：在开始菜单里，一直都在)。  
+- 🛠️ **软件低语者**：我安装和解卸Adobe全家桶(Ai, Fw, Fl, Br, Ae, Pr, Id, Ps)的速度比你喊出*"🦌"*还快。  
 - 💬 **编程语言多面手**：精通**20多种编程语言**...的*拼写*！(CSS、JavaScript、PHP、ASP、C、C++、C#、Java、Ruby、Perl、Lisp、Python、Objective-C、ActionScript、Pascal、SPSS、SAS...)。  
 - 🔄 **系统萨满**：Windows、Linux、Mac、Android、iOS、WP...它们的*开关机按钮*就像我手掌纹路一样熟悉。重启？那是系统的*下午茶时间*！⏻  
 
