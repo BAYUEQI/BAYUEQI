@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+graph LR
+    A[看到CSS] -->|秒读| B(Cascading Style Sheets)
+    C[看到C++] -->|秒拼| D(C plus plus)
+    E[看到Lisp] -->|秒错| F(List Processing拼成Lisp)
