@@ -6,7 +6,7 @@
 #### 🌟 **我的超能力**  
 - 🛠️ **软件低语者**：我安装和解卸Adobe全家桶(Ai, Fw, Fl, Br, Ae, Pr, Id, Ps)的速度比你*"🦌"*还快。  
 - 💬 **编程语言多面手**：精通**20多种编程语言**...的*拼写*！(CSS、JavaScript、PHP、ASP、C、C++、C#、Java、Ruby、Perl、Lisp、Python、Objective-C、ActionScript、Pascal、SPSS、SAS...)。  
-- 🔄 **系统萨满**：Windows、Linux、Mac、Android、iOS、WP...它们的*开关机按钮*就像我手掌纹路一样熟悉。重启？那是系统的*下午茶时间*！⏻  
+- 🔄 **系统塞满**：Windows、Linux、Mac、Android、iOS、WP...它们的*开关机按钮*就像我手掌纹路一样熟悉。重启？那是系统的*下午茶时间*！⏻  
 
 #### 🚀 **当前使命**  
 *"为什么安装软件感觉像蒙眼解魔方？"* 🧩  
