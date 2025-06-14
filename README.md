@@ -8,9 +8,6 @@
 - 💬 **编程语言多面手**：精通**20多种编程语言**...的*拼写*！(CSS、JavaScript、PHP、ASP、C、C++、C#、Java、Ruby、Perl、Lisp、Python、Objective-C、ActionScript、Pascal、SPSS、SAS...)。  
 - 🔄 **系统塞满**：Windows、Linux、Mac、Android、iOS、WP...它们的*开关机按钮*就像我手掌纹路一样熟悉。重启？那是系统的*下午茶时间*！⏻  
 
-#### 🚀 **当前使命**  
-*"为什么安装软件感觉像蒙眼解魔方？"* 🧩  
-我正在撰写一系列关于软件安装的*神秘艺术*指南——用幽默化解技术焦虑。  
 
 #### 💡 **冷知识**  
 如果编程语言是宠物：  
