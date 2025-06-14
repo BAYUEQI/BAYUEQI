@@ -19,8 +19,8 @@
 - Lisp是...量子鹦鹉？它会重复你的话，但在多个维度同时进行。  
 
 #### 📫 **召唤方式**  
-- 🐙 **GitHub**: [@ZQJACKY](https://github.com/BAYUEQI) (我的代码魔法阵)。  
-- 🐦 **Telegram**: [@ZQJACKY](https://t.me/bayueqi) (偶尔吐槽科技圈)。  
+- 🐙 **GitHub**: [@ZQ JACKY](https://github.com/BAYUEQI) (我的代码魔法阵)。  
+- 🐦 **Telegram**: [@ZQ JACKY](https://t.me/bayueqi) (偶尔吐槽科技圈)。  
 - ✉️ **邮箱**: 2839713837@qq.com (魔法咒语请用加密信封)。  
 
 #### 🎮 **非技术时间**  
