@@ -27,4 +27,4 @@ timeline
 #### 📫 **召唤方式**  More actions
 - 🐙 **GitHub**: [@ZQ JACKY](https://github.com/BAYUEQI) (我的代码魔法阵)。  
 - 🐦 **Telegram**: [@ZQ JACKY](https://t.me/bayueqi) (偶尔看看外面世界)。  
-- ✉️ **邮箱**: [@ZQ JACKY](mailto:zouqi050813@gmail.com) (魔法咒语请用加密信封)。  
+- ✉️ **邮箱**: [@ZQ JACKY](mailto:zq@zouqimail.dpdns.org) (魔法咒语请用加密信封)。  
